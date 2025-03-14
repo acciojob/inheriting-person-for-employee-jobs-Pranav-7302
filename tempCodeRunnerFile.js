@@ -1,2 +1,2 @@
 window.Person = Person;
-// window.Employee = Employee;
+// window.Employee = Employ
