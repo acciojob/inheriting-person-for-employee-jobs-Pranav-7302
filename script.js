@@ -1,11 +1,6 @@
 // complete this js code
 // function Person(name, age) {}
 
-// function Employee(name, age, jobTitle) {}
-// // Do not change code below this line
-window.Person = Person;
-window.Employee = Employee;
-
 class Person{
     constructor(name,age) {
         this.name = name;
@@ -32,3 +27,7 @@ p1.greet()
 
 let emp = new Employee("Ramu",28,"Manager")
 emp.jobGreet()
+// function Employee(name, age, jobTitle) {}
+// // Do not change code below this line
+window.Person = Person;
+window.Employee = Employee;
